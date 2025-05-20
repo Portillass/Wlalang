@@ -28,21 +28,12 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 🛠️ Setup Instructions
 Navigate to your desired directory:
 
-bash
-Copy
-Edit
 cd C:\xampp\htdocs
 Create or enter your project folder:
 
-bash
-Copy
-Edit
 mkdir Wlalang
 cd Wlalang
 Initialize a new Rust project:
 
-bash
-Copy
-Edit
 cargo init
 
